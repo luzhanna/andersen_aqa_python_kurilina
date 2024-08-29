@@ -1,0 +1,5 @@
+[((())()(())]] - this brackets sequence incorrect (at least in most languages).
+
+In order to make it correct last but one bracket should be changed to round ] -> ).
+So the correct sequence would look like this:
+[((())()(()))]
